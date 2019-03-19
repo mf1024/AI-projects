@@ -1,2 +1,2 @@
 # AI-projects
-List of my AI projects and experiments
+List of my public AI projects and experiments
